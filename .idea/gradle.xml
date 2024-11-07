@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/mod3spacermodifier" />
             <option value="$PROJECT_DIR$/mod4compteur" />
             <option value="$PROJECT_DIR$/mod4formulaire" />
+            <option value="$PROJECT_DIR$/mod4vm" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
