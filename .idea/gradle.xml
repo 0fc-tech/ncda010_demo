@@ -23,6 +23,10 @@
             <option value="$PROJECT_DIR$/mod5activites" />
             <option value="$PROJECT_DIR$/mod5nav" />
             <option value="$PROJECT_DIR$/mod5testcompose" />
+            <option value="$PROJECT_DIR$/mod6datastore" />
+            <option value="$PROJECT_DIR$/mod6room" />
+            <option value="$PROJECT_DIR$/mod7apirest" />
+            <option value="$PROJECT_DIR$/mod8workmanager" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
